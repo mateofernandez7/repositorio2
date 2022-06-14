@@ -134,6 +134,9 @@ body {
     margin-left: 42%;
     margin-right: 42%;
     border: solid 4px rgb(89, 0, 255);
+    animation-name: animacionp;
+    animation-duration:10s;
+    animation-iteration-count: infinite;
 
 }
 
